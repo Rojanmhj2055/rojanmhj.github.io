@@ -1,0 +1,26 @@
+.navbar{
+    display: flex;
+    gap: 20px;
+    width: 100%;
+    height: 50px;
+    align-items: center;
+    background-color: black;
+    font-size: 25px;
+    flex-direction: row;
+}
+
+
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
+a:link { text-decoration: none; }
+
+
+a:visited { text-decoration: none; }
+
+
+a:hover { text-decoration: none; }
+
+
+a:active { text-decoration: none; }
